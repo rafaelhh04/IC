@@ -24,8 +24,9 @@ Este repositorio contiene ejercicios y prácticas desarrolladas en Python con fi
 ```bash
 git clone https://github.com/tu-usuario/Ic.git
 cd Ic
-📄 Licencia
+```
+## 📄 Licencia
 Este proyecto está bajo la Licencia MIT.
 
-✍️ Autor
-Tu Rafael Herias
+## ✍️ Autor
+Rafael Hernando Herias
